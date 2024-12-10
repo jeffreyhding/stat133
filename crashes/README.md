@@ -2,9 +2,10 @@ Interactive web app can be found here: https://jeffreyd.shinyapps.io/crashes/
 
 ___
 
-The data set used by the published app is cut down to a random sample of 20,000 points in the years 2019 to 2020 due to the limitations of Shiny web apps. The file `crashes.R` is the version used in the app above.
+The data set used by the published app is a random sample of 20,000 data points in the years from 2019 to 2021 due to the limitations of Shiny web apps. The file `crashes.R` is the version used in the app above.
 
-`crashes-full.R` omits the sampling if you wish to run it yourself in RStudio (comment the map output if you're having issues loading).
+`crashes-full.R` omits the random sampling step if you wish to run it yourself in RStudio with the full data set (tutorial below).
+If you're having issues loading, I recommend commenting out the map output as there are likely too many data points for RStudio to handle.
 
 ___
 
