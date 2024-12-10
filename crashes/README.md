@@ -1,9 +1,10 @@
 Interactive web app can be found here: https://jeffreyd.shinyapps.io/crashes/
 
+\hline
+
 Published app is limited to data from 2019 to 2021 and a random sample of 20,000 points from the data set due to the limitations of Shiny web apps. `crashes.R` is the version used in the app above.
 
 `crashes-full.R` omits the sampling if you wish to run it yourself in RStudio (comment the map output if you're having issues loading).
-
 
 I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. 
 
