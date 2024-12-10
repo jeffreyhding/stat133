@@ -1,6 +1,6 @@
 Interactive web app can be found here: https://jeffreyd.shinyapps.io/crashes/
 
-\hline
+___
 
 Published app is limited to data from 2019 to 2021 and a random sample of 20,000 points from the data set due to the limitations of Shiny web apps. `crashes.R` is the version used in the app above.
 
