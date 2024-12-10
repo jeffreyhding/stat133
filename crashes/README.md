@@ -34,7 +34,8 @@ If you would like to combine these subsets into the full data set from 2014 to 2
   3. The new `.csv` file will appear in the same folder as the other `.csv` files
   4. Move the new `.csv` file into your working directory (where your `.R` file is)
   5. Adjust the `read_csv()` command in your `.R` file according to what you named your new `.csv`
+  6. Adjust the `sliderInput`s according to the years you chose to include in your combined data
 
 If you're having issues:
-- `folder_path` should be the path to your `.csv` folder in quotes
-- Ensure all `.csv` files in the folder have the same column structure and order (they should if they're in a separate folder)
+- `folder_path` should be the path to your `.csv` folder **in quotes**
+- Ensure all `.csv` files in the folder have the same column structure and order (they should if you unzipped them all in a separate folder)
