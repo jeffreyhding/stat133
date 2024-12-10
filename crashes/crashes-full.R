@@ -1,5 +1,5 @@
 # Title: Car Accidents in California
-# Description: 
+# Description: graphical analysis and interactive map of car accidents in California from 2014 to 2023
 # Author: Jeffrey Ding
 # Date: 12-6-2024
 
