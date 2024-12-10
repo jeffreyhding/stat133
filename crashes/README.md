@@ -7,7 +7,7 @@ I have split the full data set (2014-2023) into zipped `.csv` files for each yea
 
 In order to combine these into the full data set (or whatever years you wish):
   1. Unzip the compressed `.csv` files in a separate folder
-  2. Run the following code on your RStudio console
+  2. Run the following code on your RStudio console:
      ```
      library(dplyr)
       
