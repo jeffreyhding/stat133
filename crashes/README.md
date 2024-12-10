@@ -11,7 +11,7 @@ Due to the limitations of Shiny web apps, the data used in the published app is 
 
 ___
 
-The `crashes-full.R` version omits the random sampling step if you wish to run it yourself in RStudio (cannot publish).
+The `crashes-full.R` version omits the random sampling step if you wish to run it yourself in RStudio (will not publish).
 If you're having issues loading, I recommend commenting out the map output as there are likely too many data points for the Leaflet plot to handle.
 
 I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. If you plan on using the full set, note that the `.csv` file is roughly 400 MB in size.
