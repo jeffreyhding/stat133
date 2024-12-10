@@ -2,7 +2,7 @@ Interactive web app can be found here: https://jeffreyd.shinyapps.io/crashes/
 
 ___
 
-Published app is limited to data from 2019 to 2021 and a random sample of 20,000 points from the data set due to the limitations of Shiny web apps. `crashes.R` is the version used in the app above.
+Published app is cut down to data from 2019 to 2021 and a random sample of 20,000 points from the data set due to the limitations of Shiny web apps. `crashes.R` is the version used in the app above.
 
 `crashes-full.R` omits the sampling if you wish to run it yourself in RStudio (comment the map output if you're having issues loading).
 
@@ -10,7 +10,7 @@ ___
 
 I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. 
 
-In order to combine these into the full data set (or whatever years you wish):
+If you would like to combine these subsets into the full data set from 2014 to 2023 (or whatever years you wish):
   1. Unzip the compressed `.csv` files in a separate folder
   2. Run the following code on your RStudio console:
      ```
