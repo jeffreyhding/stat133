@@ -8,12 +8,12 @@ ___
 This data was provided by Amalia Stahl of UC Berkeley's [SafeTREC](https://safetrec.berkeley.edu/) for use by the STAT 133 course.
 ___
 
-The data set used by the published app is a random sample of 20,000 data points in the years from 2019 to 2021 due to the limitations of Shiny web apps. The file `crashes.R` is the version used in the app above. To use the full data set, see below.
+The data set used in the published app is a random sample of 20,000 data points in the years from 2019 to 2021 due to the limitations of Shiny web apps. The file `crashes.R` is the version used in the app above. To use the full data set, see below.
+
+___
 
 `crashes-full.R` omits the random sampling step if you wish to run it yourself in RStudio with the full data set.
 If you're having issues loading, I recommend commenting out the map output as there are likely too many data points for the Leaflet plot to handle.
-
-___
 
 I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. If you plan on using the full set, note that the `.csv` file is roughly 400 MB in size.
 
