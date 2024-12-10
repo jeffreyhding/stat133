@@ -1,2 +1,4 @@
 # STAT 133 @ UC Berkeley
-Shiny apps coded in R
+# Prof. Gaston Sanchez
+
+This folder contains projects I made while taking this course (Fall 2024).
