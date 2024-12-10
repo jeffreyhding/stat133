@@ -12,7 +12,7 @@ If you're having issues loading, I recommend commenting out the map output as th
 
 ___
 
-I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. The `.csv` file for the full set is roughly 400 MB in size.
+I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. If you plan on using the full set, note that the `.csv` file is roughly 400 MB in size.
 
 If you would like to combine these subsets into the full data set (or whatever years you wish):
   1. Unzip the compressed `.csv` files for the years you want in a **separate folder**
