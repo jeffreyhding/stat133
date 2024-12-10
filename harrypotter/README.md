@@ -1,3 +1,6 @@
+# Text Analysis of Harry Potter Books
+Description: Visualizes results from sentiment and word frequency analysis of J.K. Rowling's Harry Potter books
+
 Interactive web app can be found here: https://jeffreyd.shinyapps.io/harrypotter/
 
 ___
