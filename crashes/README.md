@@ -11,7 +11,7 @@ ___
 
 I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. 
 
-If you would like to combine these subsets into the full data set from 2014 to 2023 (or whatever years you wish):
+If you would like to combine these subsets into the full data set (or whatever years you wish):
   1. Unzip the compressed `.csv` files for the years you want in a **separate folder**
   2. Run the following code on your RStudio console:
      ```
