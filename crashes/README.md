@@ -6,6 +6,8 @@ Published app is limited to data from 2019 to 2021 and a random sample of 20,000
 
 `crashes-full.R` omits the sampling if you wish to run it yourself in RStudio (comment the map output if you're having issues loading).
 
+___
+
 I have split the full data set (2014-2023) into zipped `.csv` files for each year to get under the GitHub file size limit. 
 
 In order to combine these into the full data set (or whatever years you wish):
