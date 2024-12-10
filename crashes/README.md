@@ -1,5 +1,5 @@
 # Car Accidents in California
-Description: graphical analysis and interactive map of car accidents in California from 2014 to 2023
+Description: Graphical analysis and interactive map of car accidents in California from 2014 to 2023
 
 Interactive web app can be found here: https://jeffreyd.shinyapps.io/crashes/
 
