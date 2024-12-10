@@ -5,6 +5,9 @@ Interactive web app can be found here: https://jeffreyd.shinyapps.io/crashes/
 
 ___
 
+Data was provided by Amalia Stahl of UC Berkeley's SafeTREC for the STAT 133 course
+___
+
 The data set used by the published app is a random sample of 20,000 data points in the years from 2019 to 2021 due to the limitations of Shiny web apps. The file `crashes.R` is the version used in the app above. To use the full data set, see below.
 
 `crashes-full.R` omits the random sampling step if you wish to run it yourself in RStudio with the full data set.
