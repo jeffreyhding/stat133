@@ -31,4 +31,4 @@ In order to combine these into the full data set (or whatever years you wish):
 
 If you're having issues:
 - `folder_path` should be the path to your `.csv` folder in quotes
-- Ensure all `.csv` files have the same column structure and order (they should if they're in a separate folder)
+- Ensure all `.csv` files in the folder have the same column structure and order (they should if they're in a separate folder)
