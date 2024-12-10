@@ -38,4 +38,4 @@ If you would like to combine these subsets into the full data set from 2014 to 2
 
 If you're having issues:
 - `folder_path` should be the path to your `.csv` folder **in quotes**
-- Ensure all `.csv` files in the folder have the same column structure and order (they should if you unzipped them all in a separate folder)
+- Ensure **all** `.csv` files in the folder have the same column structure and order (they should if you unzipped them all in a separate folder)
